@@ -1,0 +1,1 @@
+import{o as t,c as n,F as o,a as e}from"./app.7599c20d.js";import{_ as l}from"./plugin-vue_export-helper.21dcd24c.js";const r={},a=e("h1",null,"dapr",-1),c=e("h2",null,"\u53C2\u8003\u8D44\u6599",-1),s=e("ul",null,[e("li",null,"https://time.geekbang.org/column/article/253061")],-1);function _(i,m){return t(),n(o,null,[a,c,s],64)}var h=l(r,[["render",_]]);export{h as default};

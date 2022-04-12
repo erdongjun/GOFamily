@@ -1,0 +1,1 @@
+const e={key:"v-117a1860",path:"/system/rpc/gRPC/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645473933e3,contributors:[{name:"shgopher",email:"shgopher@foxmail.com",commits:1}]},filePathRelative:"system/rpc/gRPC/README.md"};export{e as data};

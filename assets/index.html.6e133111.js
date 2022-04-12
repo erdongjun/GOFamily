@@ -1,0 +1,1 @@
+const e={key:"v-62a5eeb0",path:"/system/%E5%AE%B9%E5%99%A8/cilium/",title:"cilium",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646997476e3,contributors:[{name:"shgopher",email:"shgopher@foxmail.com",commits:1}]},filePathRelative:"system/\u5BB9\u5668/cilium/README.md"};export{e as data};

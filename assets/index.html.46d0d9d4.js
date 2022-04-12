@@ -1,0 +1,1 @@
+const t={key:"v-0db73ef3",path:"/system/rpc/protobuf/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645473933e3,contributors:[{name:"shgopher",email:"shgopher@foxmail.com",commits:1}]},filePathRelative:"system/rpc/protobuf/README.md"};export{t as data};

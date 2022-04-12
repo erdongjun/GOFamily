@@ -1,0 +1,1 @@
+const t={key:"v-21349520",path:"/go/%E5%B9%B6%E5%8F%91/atomic/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644419882e3,contributors:[{name:"shgopher",email:"shgopher@foxmail.com",commits:1}]},filePathRelative:"go/\u5E76\u53D1/atomic/README.md"};export{t as data};

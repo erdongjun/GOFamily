@@ -1,0 +1,1 @@
+const e={key:"v-85a75720",path:"/tech/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/socket/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645475333e3,contributors:[{name:"shgopher",email:"shgopher@foxmail.com",commits:1}]},filePathRelative:"tech/\u540E\u7AEF\u5F00\u53D1/socket/README.md"};export{e as data};

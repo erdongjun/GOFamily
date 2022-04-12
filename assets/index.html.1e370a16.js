@@ -1,0 +1,1 @@
+const t={key:"v-07859d99",path:"/go/%E5%B7%A5%E7%A8%8B/golint/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644419882e3,contributors:[{name:"shgopher",email:"shgopher@foxmail.com",commits:1}]},filePathRelative:"go/\u5DE5\u7A0B/golint/README.md"};export{t as data};

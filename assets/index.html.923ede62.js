@@ -1,0 +1,1 @@
+import{o as t,c as n,F as o,a as e}from"./app.7599c20d.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const a={},r=e("h2",null,"\u53C2\u8003\u8D44\u6599",-1),l=e("ul",null,[e("li",null,"https://draveness.me/golang/")],-1);function c(_,m){return t(),n(o,null,[r,l],64)}var u=s(a,[["render",c]]);export{u as default};

@@ -1,0 +1,1 @@
+const e={key:"v-c1ac6e28",path:"/408/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95/bfs/",title:"BFS",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645471006e3,contributors:[{name:"shgopher",email:"shgopher@foxmail.com",commits:1}]},filePathRelative:"408/\u7B97\u6CD5/\u7B97\u6CD5/bfs/README.md"};export{e as data};

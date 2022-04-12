@@ -1,0 +1,1 @@
+const e={key:"v-29691aaa",path:"/go/runtime/gmp/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644419882e3,contributors:[{name:"shgopher",email:"shgopher@foxmail.com",commits:1}]},filePathRelative:"go/runtime/gmp/README.md"};export{e as data};

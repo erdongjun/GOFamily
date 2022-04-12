@@ -1,0 +1,1 @@
+import{o as t,c as n,F as o,a as e}from"./app.7599c20d.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const r={},c=e("h1",null,"\u5BB9\u5668\u7F16\u6392\u6280\u672F kubernetes",-1),_=e("h2",null,"\u5BB9\u5668\u7F16\u6392\u57FA\u7840",-1),a=e("h2",null,"kubernetes",-1);function l(u,d){return t(),n(o,null,[c,_,a],64)}var m=s(r,[["render",l]]);export{m as default};
